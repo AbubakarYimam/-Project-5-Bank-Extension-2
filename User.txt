@@ -1,0 +1,4 @@
+Admin/1234/-1
+Cashier1/11321/1
+Cashier2/1222/31
+Cashier/11213/34
